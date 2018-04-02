@@ -6,6 +6,6 @@ package com.example.mylibrary;
 
 public class FmyUtils {
 
-    public static String fmy = "hello";
+    public static String fmy = "hello Json";
 
 }
